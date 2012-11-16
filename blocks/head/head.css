@@ -40,4 +40,6 @@
                     linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424)
                     0 0 / 20px #131313;
     behavior: url(/PIE.htc);
+
+    color: #fff;
 }
