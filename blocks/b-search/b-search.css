@@ -1,15 +1,5 @@
+.b-search__input,
 .b-search__button
 {
-    background-color: red;
-    display: block;
-    border: 1px solid transparent;
-    margin: 2em auto;
-    background-image: -webkit-linear-gradient(transparent, rgba(0, 0, 0, .5));
-    background-origin: border-box;
-    border-radius: 0.4em;
-    box-shadow: 0 3px 1px rgba(255, 255, 255, .5) inset, 0 25px 30px -12px rgba(255, 255, 255, .4) inset, 0 2px 2px black;
-    color: white;
-    text-shadow: inherit;
-
-    -webkit-transform: scale(1);
+    font-size: 16px;
 }
